@@ -1,9 +1,11 @@
-# C Projects Repository
+# Tic Tac Toe Game
 
-This repository contains various C projects that I have created for my own learning purposes. All projects here are free to use and modify according to my needs.
+This branch contains the source code for a simple command-line Tic Tac Toe game implemented in C.
 
-## Projects
+## Description
 
-I will continue to add more projects to this repository as I create them.
+This Tic Tac Toe game allows two players to take turns placing their symbols ('X' and 'O') on a 3x3 grid. The first player to get three of their symbols in a row, column, or diagonal wins the game. If the grid is filled with symbols and no player has won, the game ends in a draw.
 
-**Contributions**: This repository is for personal learning, and direct contributions are not accepted. However, you are welcome to clone the repository, raise issues for bugs or suggestions, and suggest improvements through issue discussions.
+## Usage
+
+To play the game, compile the source code and run the executable. Follow the on-screen prompts to input the cell number where you want to place your symbol. The cell numbers correspond to the positions on the grid as follows:
